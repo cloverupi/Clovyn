@@ -1,0 +1,14 @@
+{
+  "name": "crovyn-bot",
+  "version": "1.0.0",
+  "description": "Owo-style Discord economy bot with 💎 currency",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
